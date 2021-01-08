@@ -1,5 +1,5 @@
 # ADAPPT
-Repository for e-big project.
+Repository for ADAPPT project.
 
 ![GitHub Logo](/images/logo.jpeg)
 
